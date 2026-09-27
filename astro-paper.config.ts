@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://your-account.github.io/",
+    url: "https://anhctk.github.io/",
     title: "AstroPaper - blank template",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "Sat Naing",
-    profile: "https://satna.ing",
+    profile: "https://avatars.githubusercontent.com/u/36885978?v=4",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Bangkok",

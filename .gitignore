@@ -28,6 +28,7 @@ public/pagefind
 
 # pnpm
 .pnpm-store
+package-lock.json
 
 # docker compose
 compose.override.yaml
